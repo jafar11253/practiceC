@@ -7,4 +7,5 @@ month=day/30;
 day=day%30;
 printf("months:%d",month);
 return 0;
+
 }

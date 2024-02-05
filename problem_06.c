@@ -8,4 +8,5 @@ printf("Perimeter of the Circle = %f\n", perimeter);
 area = 3.14*radius*radius;
 printf("Area of the Circle = %f\n", area);
 return(0);
+
 }
